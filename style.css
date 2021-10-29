@@ -51,10 +51,10 @@
 
 .container2{
     width: 100%;
-    height: 110vh;
+    height: 100%;
     background-image: url('assets/kansasstorm.jpg');
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: local;
     background-position: center;
     background-repeat: no-repeat;
     padding-left: 8%;
